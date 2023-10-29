@@ -1,0 +1,8 @@
+{
+    "/user": ["Guest", "Admin", "Employee"],
+    "/user/addNewUser": ["Guest", "Admin", "Employee"],
+    "/user/listUser": ["Admin"],
+    "/user/getUserDetails": ["Admin", "Employee"],
+    "/api": ["Admin"],
+    "/api/listUser": ["Admin"]
+}

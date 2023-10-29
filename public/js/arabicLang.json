@@ -1,0 +1,15 @@
+{
+    "validation error": "خطأ في التحقق",
+    "failure": "إخفاق",
+    "login success": "تم تسجيل الدخول بنجاح",
+    "success": "نجاح",
+    "user saved success": "تم حفظ المستخدم بنجاح",
+    "internal error": "خطأ داخلي",
+    "data not found": "لم يتم العثور على بيانات",
+    "mobile number invalid": "رقم الجوال غير صحيح",
+    "password not match": "كلمة السر ليست جيدة",
+    "you dont have permission": "ليس لديك إذن",
+    "jwt error": "خطأ JWT",
+    "user not found": "لم يتم العثور على المستخدم",
+    "language": "ar"
+}
